@@ -80,7 +80,7 @@ I'd love to hear your thoughts on the Dino Run Game!
 
 ### 🎮 Download Game
 
-You can also download and play the game from [Itch.io](https://your-itch-link-here)
+You can also download and play the game from [Itch.io](https://abdulraheem386.itch.io/dino-run-sdl2-mini-game)
 
 
 
