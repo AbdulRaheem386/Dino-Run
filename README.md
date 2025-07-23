@@ -78,6 +78,11 @@ Aspiring Game Developer
 I'd love to hear your thoughts on the Dino Run Game!  
 👉 [Start a discussion here.](https://github.com/AbdulRaheem386/Dino-Run/discussions)
 
+### 🎮 Download Game
+
+You can also download and play the game from [Itch.io](https://your-itch-link-here)
+
+
 
 
 
