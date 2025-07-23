@@ -76,7 +76,8 @@ Aspiring Game Developer
 
 📣 **Have feedback or suggestions?**  
 I'd love to hear your thoughts on the Dino Run Game!  
-👉 [Start a discussion here.](https://github.com/username/dino-game/discussions)
+👉 [Start a discussion here.](https://github.com/AbdulRaheem386/Dino-Run/discussions)
+
 
 
 
