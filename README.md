@@ -72,5 +72,13 @@ This project is licensed under the [MIT License](LICENSE).
 Made with ❤️ by **Hafiz Abdulraheem**  
 Student, Riphah International University  
 Aspiring Game Developer
+---
+
+📣 **Have feedback or suggestions?**  
+I'd love to hear your thoughts on the Dino Run Game!  
+👉 [Start a discussion here.](https://github.com/username/dino-game/discussions)
+
+
+
 
 
